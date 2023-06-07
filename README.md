@@ -1,6 +1,6 @@
 ### Hi there 👋 (I am open for hiring 😁) 
 
-- 🔭 I’m currently working on [xpresserjs](https://xpresserjs.com) ...
-- 🌱 I’m currently learning [GoLang](https://golang.org) ...
+- 🔭 Check out [xpresserjs](https://xpresserjs.com) a server side framework for Nodejs
+- 🌱 I’m currently learning [rust](https://www.rust-lang.org) ...
 - 📫 How to reach me: **dm on twitter**
-- ⚡ Fun fact: **Coding is sweet 😁**
+- ⚡ Fun fact: **I love puzzles espcially when it involves coding and bugs 🐞 **
